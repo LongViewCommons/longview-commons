@@ -1,6 +1,7 @@
 # Longview Commons
 
 > Building practical independence through open technology, shared knowledge, resilient systems, and long-term stewardship.
+Read the complete [Longview Commons Founding Statement](FOUNDING-STATEMENT.md).
 
 ## Why This Project Exists
 
