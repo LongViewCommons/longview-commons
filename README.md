@@ -170,6 +170,7 @@ Current priorities:
 ## Contact
 
 Email: `longviewcommons@gmail.com`
+Discourse Group: 'longviewcommons.discourse.group'
 
 ## License
 
