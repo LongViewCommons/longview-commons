@@ -160,6 +160,13 @@ Current priorities:
 5. Build the first useful public resources
 6. Find people who believe in the mission and want to contribute
 
+## Project Documents
+
+- [Founding Statement](FOUNDING-STATEMENT.md)
+- [First Public Question](FIRST-QUESTION.md)
+- [Contributing](CONTRIBUTING.md)
+- [Privacy](PRIVACY.md)
+
 ## Contact
 
 Email: `longviewcommons@gmail.com`
