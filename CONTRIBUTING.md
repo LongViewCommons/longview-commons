@@ -1,3 +1,9 @@
+---
+layout: default
+title: Contributing
+permalink: /contributing/
+---
+
 # Contributing to Longview Commons
 
 Longview Commons is in its earliest formation stage.
