@@ -107,6 +107,8 @@ We are starting by listening.
 
 ## Our First Question
 
+Read and respond to [our first public question](FIRST-QUESTION.md):
+
 > What system in your life do you depend on but do not truly control?
 
 It could involve:
