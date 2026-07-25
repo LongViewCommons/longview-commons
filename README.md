@@ -171,6 +171,7 @@ Current priorities:
 
 Email: `longviewcommons@gmail.com`
 Discourse Group: 'longviewcommons.discourse.group'
+https://longviewcommons.discourse.group/invites/HpbW4emun2
 
 ## License
 
